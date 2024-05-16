@@ -17,12 +17,12 @@ const foundValue = numbers.find((item) => item == 20)
 // console.log(foundValue)
 
 const filterArray = numbers.filter((item) => item < 40)
-console.log("Filtered Array", filterArray)
+// console.log("Filtered Array", filterArray)
 
 
 const sum = numbers.reduce((previousValue, currentValue) => previousValue + currentValue)
 
-console.log("Sum", sum)
+// console.log("Sum", sum)
 
 
 
