@@ -19,8 +19,11 @@ function show() {
 console.log(name)
 show()
 */
-
+/*
+let name = 'john';
 {
-    let name = 'john';
+    // let name = 'john';
     console.log(name)
 }
+*/
+ 
